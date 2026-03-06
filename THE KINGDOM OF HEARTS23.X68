@@ -1,12 +1,5 @@
 ;-------------------------------------------------------
-; 68000 Assembly Game – Kingdom of Hearts
-; Module: Assembly and C Programming
-; Year 2 Stage 2 – Software Development and Cyber Security
-;
-; Student Name: Lucas Gabriel De Oliveira Lima
-; Student ID: C00298828
-; Date Created: FEB 2026
-;
+; 68000 Assembly Game â€“ Kingdom of Hearts
 ; Description:
 ; This project is a text-based adventure game written in
 ; Motorola 68000 assembly language using Easy68K.
@@ -1745,3 +1738,4 @@ LAST_PLAYER_DMG:       DS.W    1
 *~Font size~10~
 *~Tab type~1~
 *~Tab size~4~
+
